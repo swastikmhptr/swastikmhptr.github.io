@@ -1,0 +1,20 @@
+# Site settings
+title: "{ Swastik Mahapatra }"
+description: This website is my personal portfolio
+#baseurl: "/particle" # the subpath of your site, e.g. /blog
+url: "https://www.linkedin.com/in/swastikmahapatra1996"
+
+# User settings
+username: Swastik Mahapatra
+user_description: I'm a Deep Learner, Neural Network Enthusiast and a Python Lover
+user_title: Aspiting ML Architect / Deep Learning Enthusiast
+email: swastik.mhptr@gmail.com
+twitter_username: SwastikMahapat8
+github_username: swastikmhptr
+gplus_username: swastik.mhptr
+
+# Google-analytics
+google-analytics:
+  id: ""
+
+exclude: ['package.json', 'src' , 'node_modules']
