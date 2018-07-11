@@ -11,12 +11,12 @@
 }
 
 .tex, .latex, .tex sub, .latex sub {
-  font-size: 0.65em;
+  font-size: 0.75em;
 }
 
 .latex sup {
   font-size: 0.65em;
-  vertical-align: 0.35em;
+  vertical-align: 0.15em;
   margin-left: -0.36em;
   margin-right: -0.15em;
 }
