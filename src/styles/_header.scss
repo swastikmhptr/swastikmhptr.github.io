@@ -43,6 +43,16 @@
       font-size: 40px;
     }
   }
+  .site-notice {
+    font-size: 10px;
+    display: block;
+    line-height: 1;
+    color: #FFF;
+    margin-top: 10px;
+    @media only screen and (min-width:$cut){
+      font-size: 20px;
+    }
+  }
 }
 
 .header-links {
