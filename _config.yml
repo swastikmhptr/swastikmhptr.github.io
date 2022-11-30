@@ -2,12 +2,12 @@
 title: "{ Swastik Mahapatra }"
 description: This website is my personal portfolio
 #baseurl: "/particle" # the subpath of your site, e.g. /blog
-url: "https://www.linkedin.com/in/swastikmahapatra1996"
+url: "https://www.linkedin.com/in/swastikmahapatra"
 
 # User settings
 username: Swastik Mahapatra
-user_description: I'm a Aspiring ML Architecct, Neural Network Enthusiast and a Python Coder
-user_title: Aspiting ML Architect / Deep Learning Enthusiast
+user_description: Machine Learning Engineer in Computer Vision
+user_title: Senior Machine Learning Engineer
 email: swastik.mhptr@gmail.com
 twitter_username: SwastikMahapat8
 github_username: swastikmhptr
