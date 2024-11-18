@@ -1,0 +1,13 @@
+"ADI GTC":
+  url: https://events.web.analog.com/profile/web/index.cfm?PKwebID=0x6043abcd&varPage=home
+  color: "#00369f"
+
+"IEEE":
+  url: https://www.ieee.org/conferences/index.html
+
+"ADI ITEC":
+  url: https://www.ieee.org/conferences/index.html
+
+"ROSCON India":
+  url: https://rosconindia.in/
+  color: "#009f36"
