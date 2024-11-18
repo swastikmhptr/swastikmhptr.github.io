@@ -1,0 +1,12 @@
+github_users:
+  - swastikmhptr
+
+repo_description_lines_max: 2
+
+github_repos:
+  - swastikmhptr/adi_3dtof_gesture_recognition
+  - swastikmhptr/adi_3dtof_image_stitching
+  - swastikmhptr/adi_3dtof_safety_bubble_detector
+  - swastikmhptr/adi_3dtof_floor_detector
+  - swastikmhptr/adi_3dtof_adtf31xx
+  - swastikmhptr/Terrorism-Vulnerability-Prediction-model-for-Indian-States

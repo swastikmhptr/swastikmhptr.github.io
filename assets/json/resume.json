@@ -1,0 +1,359 @@
+{
+  "basics": {
+    "name": "Swastik Mahapatra",
+    "label": "Senior Engineer, AI/ML Software Engineering",
+    "image": "",
+    "email": "swastikm@cs.cmu.edu",
+    //"phone": "(412) 880-8152",
+    "url": "https://www.swastikmahapatra.com/",
+    "summary": "Swastik Mahapatra is a skilled AI/ML Software Engineer with extensive experience in Edge AI, Deep Learning, and Computer Vision. \n He has made significant contributions to the field of computer vision and robotic industrial automation during his tenure at Analog Devices, where he developed innovative solutions for deep-learning on edge, human-robot interaction and robotic operational safety. \n Currently pursuing a Master's degree in Robotic Systems Development at Carnegie Mellon University, Swastik brings a wealth of practical experience, including multiple patents and publications, as well as prestigious awards recognizing his exceptional contributions to the field.",
+    "location": {
+      "address": "Beacon St",
+      "postalCode": "PA 15217",
+      "city": "Pittsburgh",
+      "countryCode": "US",
+      "region": "Pensylvania"
+    },
+    "profiles": [
+      {
+        "network": "Linkedin",
+        "username": "swastikmahapatra",
+        "url": "https://www.linkedin.com/in/swastikmahapatra/"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Analog Devices",
+      "position": "Senior Engineer, AI/ML Software Engineering",
+      "url": "https://analog.com",
+      "startDate": "2022-04-01",
+      "endDate": "2024-08-02",
+      "summary": "As a senior Machine learning engineer i developed 3D VIsion and AI solutions for Industrial RObotic safety applications. Developed multiple applications for industry leading hardware like ADTF3175 1MP time of flight device and MAX78002 edge CNN accelerator.",
+      "highlights": ["Awarded 'Top 10 Under 10 Award' as a recognition for being among the top 10 contributors to the organization with under 10 years of experience.", "Awarded Best Paper Award in ITEC2023"]
+    },
+    {
+      "name": "Analog Devices",
+      "position": "Machine Learning Engineer",
+      "url": "https://analog.com",
+      "startDate": "2019-06-01",
+      "endDate": "2022-04-01",
+      "summary": "As a Machine learning engineer, i worked on developing efficient neural network applications for embedded devices. Led the ADI people counter Algorithm project and worked on various other applications like Human tracking, Facial recognition and detection, Condition based monitoring(CBM),etc.",
+      "highlights": ["Won Skynet 2022 AI Hackathon", "Published in multiple conferences and filed my first patent.", "Nominated as AI Mentor for Anveshan 2021 Fellowship program"]
+    },
+    {
+      "name": "Analog Devices",
+      "position": "Intern - Deeplearning And Computer Vision",
+      "url": "https://analog.com",
+      "startDate": "2018-08-01",
+      "endDate": "2019-05-30",
+      "summary": "As a part of my internship target i upgraded the ADI people count application to use Deep-Learning convolutional neural networks for more efficient Human detection.",
+      "highlights": ["Awarded full time position in recognition of excellient work."]
+    }
+
+  ],
+  "education": [
+    {
+      "institution": "Carnegie Mellon University",
+      "location": "Pittsburgh, PA",
+      "url": "https://www.cmu.edu/",
+      "area": "Robotic Systems Development",
+      "studyType": "Masters",
+      "startDate": "2024-08-01",
+      "endDate": "2026-05-01",
+      "score": "4.0",
+      "courses": ["Advanced COmputer Vision", "Reinforcement Learning and Control", "Advanced Deep-Learning"]
+    },
+    {
+      "institution": "Indian Institute Of Science",
+      "location": "Bangalore, India",
+      "url": "https://iisc.ac.in/",
+      "area": "Computer Science & Automation",
+      "studyType": "Summer School",
+      "startDate": "2018-06-01",
+      "endDate": "2018-07-31",
+      "courses": ["Artificial Intelligence", "Quantum COmputing", "Reverse engineering in SOftware"]
+    },
+    {
+      "institution": "Visvesvaraya Technological University",
+      "location": "Bangalore, India",
+      "url": "https://vtu.ac.in/",
+      "area": "Computer Science & Engineering",
+      "studyType": "Bachelors",
+      "startDate": "2014-08-01",
+      "endDate": "2018-07-31",
+      "score": "3.42"
+    }
+  ],
+  "awards": [
+    {
+      "title": "Twn Young Professionals Under Ten(TYPT) 2022",
+      "date": "2022-06-01",
+      "awarder": "Analog Devices",
+      "url": "https://drive.google.com/file/d/1FreuMlTZwhRuIRbeR4p-WkOA81_Uzo0d/view?pli=1",
+      "summary": "Awarded the prestigious Analog Devices India Ten Young Professionals Under Ten Award as a recognition for being among the top ten contributors to the organization with under 10 years of Experience."
+    },
+    {
+      "title": "Best Paper Award - India Technology Conference(ITEC) 2023",
+      "date": "2023-09-21",
+      "awarder": "Analog Devices",
+      "url": "https://drive.google.com/file/d/1FpIe4p6hwdeLTZQtju_ffY2OESJsH74S/view",
+      "summary": "Won the Best Paper Award W at ADI India Technical Conference 2022."
+    },
+    {
+      "title": "Winner - Skynet AI Hackathon",
+      "date": "2022-08-15",
+      "awarder": "ADI GTC 2022",
+      "summary": "Won the Skynet AI Hackathon Challenge at ADI Global Technical Conference 2022"
+    },
+    {
+      "title": "AI Mentor - Anveshan 2020",
+      "date": "2020-08-09",
+      "awarder": "Analog Devices India",
+      "url": "https://drive.google.com/file/d/1JbwUPRHkvxy1cTtGhm9XxqpqQInJU5Ka/view",
+      "summary": "Elected as AI Mentor to guide a team of Undergrads in ADI’s Annual Fellowship Program 'Anveshan'"
+    },
+    {
+      "title": "2nd Position in IIsc Machine Learning Hackathon",
+      "date": "2018-03-10",
+      "awarder": "Indian Institute Of Science(IIsc)",
+      "url": "https://drive.google.com/file/d/1kKmvdGcBaP1RZESSNU7OBWwwxVnN-1Tx/view",
+      "summary": "Secured 2nd Position in Machine Learning Hackathon Organised by Indian Institute Of Science."
+    },
+    {
+      "title": "ADI Spot Award",
+      "date": "2023-01-27",
+      "awarder": "Analog Devices",
+      "url": "https://drive.google.com/file/d/1z7mnF4mD4HMxCT16HJTp6PDGom6T9jr_/view",
+      "summary": "Awarded multiple ADI Spot Awards and ADI Impact Awards for Excellent Professional Performance."
+    }
+  ],
+  "publications": [
+    {
+      "name": "(PATENT)ARCHITECTURE FOR RUNNING CONVOLUTIONAL NETWORKS ON MEMORY AND MIPS CONSTRAINED EMBEDDED DEVICES",
+      "publisher": "United States Patent and Trademark Office(USPTO)",
+      "releaseDate": "2024-10-09",
+      "url": "https://patents.google.com/patent/US20220198257A1/en",
+      "summary": "This Patent describes techniques to perform convolutional neural networks (CNNs) on embedded devices. The techniques include operations comprising: accessing DNN information including definition of layers and weights of the DNN; obtaining cache or memory information for one or more cache or memory levels of the resource constrained embedded device; and configuring the DNN to be loaded onto the one or more cache or memory levels of the resource constrained embedded device based on the cache or memory information and the DNN information."
+    },
+    {
+      "name": "Enabling Smart Building Applications on the Edge Using Artificial Intelligence",
+      "publisher": "IEEE Wintechcon",
+      "releaseDate": "2022-06-02",
+      "url": "https://ieeexplore.ieee.org/document/9832044",
+      "summary": "In the paper we discuss various smart building applications which is achieved using occupancy monitoring with Artificial Intelligence."
+    },
+    {
+      "name": "Enhancing vision capabilities of ADTF3175 using 3D Depth stitching algorithm",
+      "publisher": "Analog Devices India Technical Conference 2023",
+      "releaseDate": "2023-09-20",
+      "url": "https://www.analog.com/en/resources/analog-dialogue/articles/enhancing-vision-sensor-capabilities.html?ADICID=some_ww-_ongoing__organic%2Bsocial_na_2024_+#author",
+      "summary": "This Publication explores how we enhanced the capabilities of fixed FOV time of flight cameras using a novel and efficient 3D depth stitching algorithm that can combine the FOV of multiple Time of Flight sensors in a modular fashion to give a conventional Lidar like coverage while running on the edge at speeds of upto 100FPS. This work was done with the industry leading Tof Device ADTF3175D, which also won the CES2023 innovation award for being the industry's first 1 megapixel Depth sensor."
+    }
+  ],
+  "projects": [
+    {
+      "name": "3D Hand Gesture Control for Human Robot Interaction",
+      "summary": "The Analog Devices 3DToF Gesture Recognition package is an ROS (Robot Operating System) solution designed for real-time Hand Gesture Reognition. Leveraging the power of deep learning, this package processes depth images captured by ADI's Time of Flight (ToF) sensor to accurately recognize and publish one of 18 distinct gestures. At the heart of the recognition module is a Convolutional Neural Network (CNN), which ensures the system to operate seamlessly at 5 frames per second (FPS) on the EVAL-ADTF3175D-NXZ platform.",
+      "highlights": ["3D Perception", "Human Robot Interaction(HRI)"],
+      "startDate": "2023-09-01",
+      "endDate": "2024-08-01",
+      "url": "https://github.com/swastikmhptr/adi_3dtof_gesture_recognition"
+    },
+    {
+      "name": "Enhancing Vision Sensor Capabilities with 3D Depth Stitching Algorithm",
+      "summary": "The rising popularity of time of flight (TOF) cameras in industrial applications, particularly in robotics, is attributed to their exceptional depth computing and infrared (IR) imaging capabilities. Despite these advantages, the inherent complexity of the optical system often constrains the field of view, limiting standalone functionality. This article discusses a 3D image stitching algorithm designed for a supporting host processor, eliminating the need for cloud computation. This algorithm seamlessly combines IR and depth data from multiple TOF cameras in real time, producing a continuous, high quality 3D image with an expanded field of view beyond standalone units. The stitched 3D data enables the application of state-of-the-art deep-learning networks—particularly valuable in mobile robotics applications—to revolutionize the visualization and interaction with the 3D environment.",
+      "highlights": ["3D Depth Stitching", "CUDA optimization"],
+      "startDate": "2023-02-01",
+      "endDate": "2024-02-01",
+      "url": "https://github.com/swastikmhptr/adi_3dtof_image_stitching"
+    },
+    {
+      "name": "Safety Bubble detector for Industrial AGVs",
+      "summary": "The ADI 3DToF Safety Bubble Detector is a ROS (Robot Operating System) package for the Safety Bubble Detection application. The Safety Bubble Detectors are the basic building block of any AGV/AMR. The safety zone is a virtual area around an AGV/AMR. The Safety Bubble Detectors are used to detect the presence of any object inside this zone and prevent the AGV/AMR from colliding on to the object.",
+      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
+      "startDate": "2022-11-01",
+      "endDate": "2023-09-01",
+      "url": "https://github.com/swastikmhptr/adi_3dtof_safety_bubble_detector"
+    },
+    {
+      "name": "Floor detector for Industrial AGVs",
+      "summary": "The ADI 3DToF Floor Detector is a ROS (Robot Operating System) package for the Floor Detection application. The term 'Floor Detection' refers to determining where the floor is in the given image. It is an image segmentation problem in which a given image is divided into floor and non-floor pixels. Floor Detection is an essential component of real-world applications such as Robot Navigation, Autonomous Driving, Augmented reality (AR) applications, and 'Obstacles Detection and Avoidance' for robots and people with inadequate vision. Here is the sample output of ADI 3DToF Floor Detector.",
+      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
+      "startDate": "2022-08-01",
+      "endDate": "2023-11-01",
+      "url": "https://github.com/swastikmhptr/adi_3dtof_floor_detector"
+    },
+    {
+      "name": "Global Terrorism Vulnerability Forecasting using Deep Learning",
+      "summary": "Undergrad Thesis - This project includes prediction of vulnerability for various cities and states around the world for specific year intervals. This is done using the Global Terrorism Database maintained by START.inc while creating a separate target feature called 'Vulnerability', which counts the total number of attacks that has been happened in a specific city for a specific year.",
+      "highlights": ["Elected to be among the top 4 best projects from all over India and was featured in IISc’s Official Channel"],
+      "startDate": "2017-01-01",
+      "endDate": "2018-06-01",
+      "url": "https://www.youtube.com/watch?v=S7M4-DDeYgw"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Programming",
+      "level": "Advanced",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+        "C++",
+        "Python",
+        "Java"
+      ]
+    },
+    {
+      "name": "Deep Learning",
+      "level": "Advanced",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+        "Model Optimization",
+        "Edge Inference Framework Development",
+        "CUDA",
+        "AI Microcontrollers"
+      ]
+    },
+    {
+      "name": "Computer Vision",
+      "level": "Advanced",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+        "Object detection and tracking",
+        "Image stitching and sensor fusion",
+        "Image processinf",
+        "optical and Time of Flight Sensors"
+      ]
+    },
+    {
+      "name": "Hardware",
+      "level": "Medium",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+        "Nvidia Jetson",
+        "AI microcontrollers",
+        "DIgital SIgnal Processors(DSPs)",
+        "GPU model training"
+      ]
+    }
+  ],
+  "references": [
+    {
+      "name": "Srinivas Prasad, Senior Director - Analog Devices Asia Pacific",
+      "icon": "fa-solid fa-thumbtack",
+      "reference": "I had the pleasure of working closely with Swastik during his stint at Analog Devices. Swastik consistently stood out as a highly technical and and results-driven individual. He is exceptional when it comes to problem-solving and had consistently demonstrated ability to handle complex projects with minimal supervision. Would rate Swastik extremely high on working with cross functional teams and deliver value as a strong team player. He brings in positive energy and always a smiley face at work."
+    },
+    {
+      "name": "Anil Sripadarao, Princial Engineer - Analog Devices",
+      "icon": "fa-solid fa-thumbtack",
+      "reference": "I had the pleasure of working with Swastik for three years on Robotics Perception algorithms, and I can confidently say he is an exceptional professional in Deep Learning and Computer Vision. Swastik has consistently demonstrated a high level of expertise and dedication. During our time together, Swastik proved to be incredibly hardworking, intelligent, and articulate. His ability to present complex ideas clearly and effectively made him a standout communicator and presenter. He delivered multiple presentations at internal conferences, impressing everyone with his depth of knowledge and clarity. One of Swastik's most remarkable qualities is his quick learning ability. He mastered ROS concepts, Image processing techniques, and CUDA programming in a short period, implementing optimized algorithms on NVIDIA and ARM processors with great efficiency.Swastik is not only a talented engineer but also a great team player who consistently contributes to the success of the projects he is involved in. I highly recommend him for any role that requires deep technical expertise, strong communication skills, and a proactive approach to problem-solving."
+    },
+    {
+      "name": "Neeraj Pai, AI Engineering Manager - Qualcomm",
+      "icon": "fa-solid fa-thumbtack",
+      "reference": "I have worked with Swastik over a variety of projects and rate him very highly for all his contributions. His ability to quickly assimilate information and quickly apply it across complex tasks makes him a joy to work with. Some of his qualities I admire are ability to take complete ownership of the task, derive innovative solutions to problems and expertise in working with different stakeholders to collaborate. His easy going and helpful nature also makes him a joy to work with. I wish him all the best and success for all his future endeavours."
+    }
+  ],
+  "certificates": [
+    {
+      "name": "Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization",
+      "date": "2018-03-21",
+      "issuer": "Deeplearning.ai",
+      "url": "https://www.coursera.org/account/accomplishments/verify/5PTHY49S24RX",
+      "icon": "fa-solid fa-location-dot"
+    },
+    {
+      "name": "Neural Networks and Deep Learning",
+      "date": "2018-03-07",
+      "issuer": "Deeplearning.ai",
+      "url": "https://www.coursera.org/account/accomplishments/certificate/VLX93E54SFJD",
+      "icon": "fa-solid fa-tag"
+    },
+    {
+      "name": "Bigdata Hadoop and Cloud Computing",
+      "date": "2016-07-02",
+      "issuer": "I-MEDITA",
+      "url": "https://drive.google.com/file/d/1h1F9lQ4CpwEYfMV9B6ijnkdzp3xala0K/view",
+      "icon": "fa-solid fa-envelope"
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "MUST Research Club",
+      "location": "Hyderabad, India",
+      "position": "Life Member - AI Research",
+      "url": "https://must.co.in/",
+      "startDate": "2017-03-01",
+      "endDate": "Present",
+      "summary": "MUST Research is India’s one of the most premier AI research club. Together we work towards improving AI technology in India by working on innovative project ideas that can improve human life, helping academia and raising awareness of AI among government Organisations.",
+      "highlights": ["India's Largest group of AI Scientists", "AI For Good"]
+    },
+    {
+      "organization": "AI Saturdays by NUrture.ai",
+      "location": "Bangalore, India",
+      "position": "Chapter Ambassador - Bangalore",
+      "url": "https://github.com/AI6-Bangalore-Chapter",
+      "startDate": "2019-01-01",
+      "endDate": "2019-06-01",
+      "summary": "AI Saturdays was a Global Initiative started by a Singapore-based company Nurture.ai where volunteers from over 100 cities around the world hosted free Artificial Intelligence Meetups to help students and professionals get started in their journey of learning AI. This initiative made AI accessible to all. ◦ AI for All: We were operating a Meetup group with over 2000+ active participants across Bangalore. As a part of the program, we organized Fast.ai MOOC learning sessions(Designed by Jeremy Howard), with help from companies like Nvidia and Go-Jek, while also being hosted by co-working spaces across Bangalore.",
+      "highlights": ["Hosted one of the largest meetups in bangalore with 2000+ active participants", "Sponsered by Nvidia, Go-Jek and 91Springboards"]
+    },
+    {
+      "organization": "AIESEC",
+      "location": "Bangalore, India",
+      "position": "Team Leader - Incoming Global Volunteers",
+      "url": "https://aiesec.org/",
+      "startDate": "2016-06-01",
+      "endDate": "2017-03-31",
+      "summary": "Youth 4 Impact: Led a team that helped connect international volunteers from across the globe, with relevant opportunities with Indian NGO’s for orphans. This was done to promote the ”Quality Education” Sustainable Development Goal(SDG) as defined by the United Nations Council.",
+      "highlights": ["Supported India in meeting the Quality Education United Nations SDG"]
+    }
+  ],
+  "interests": [
+    {
+      "name": "Deep-Learning",
+      "icon": "fa-solid fa-tag",
+      "keywords": [
+        "Convolutional Neural Networks",
+        "Model OPtimization",
+        "Edge AI"
+      ]
+    },
+    {
+      "name": "Computer Vision",
+      "icon": "fa-solid fa-tag",
+      "keywords": [
+        "3D Vision",
+        "Object Detection and tracking",
+        "Image processing"
+      ]
+    },
+    {
+      "name": "Robotics",
+      "icon": "fa-solid fa-tag",
+      "keywords": [
+        "3D Perception",
+        "Analytics on Perceptually degreded environments",
+        "Human Robot Interaction(HRI)"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Fluent",
+      "icon": ""
+    },
+    {
+      "language": "Hindi",
+      "fluency": "Native speaker",
+      "icon": ""
+    },
+    {
+      "language": "Odia",
+      "fluency": "Native speaker",
+      "icon": ""
+    }
+  ]
+}
