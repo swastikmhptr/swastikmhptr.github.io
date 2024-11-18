@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://swastikmhptr.github.io/sitemap.xml
