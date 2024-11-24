@@ -16,16 +16,18 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I am a graduate student in Robotic Systems Development at Carnegie Mellon University, with 6+ years of experience in Machine Learning and Software Engineering for embedded devices.My professional experience at Analog Devices has equipped me with valuable skills in deep learning, computer vision, and embedded systems. Some of my key achievements include: 
+Swastik Mahapatra is a distinguished AI and Robotics professional with extensive experience in Edge AI, Deep Learning, and Computer Vision. Currently pursuing a Master of Science in Robotic Systems Development at Carnegie Mellon University, he previously served as a Senior Engineer in AI/ML Software Engineering at Analog Devices in Bangalore.
 
-1) Developing a highly efficient Deep Learning Edge Inference Framework for highly compute-constrained processors like Digital Signal Processors, which earned a US patent.
+***Professional Achievements:***<br>
+During his six-year tenure at Analog Devices (2018-2024), he spearheaded several groundbreaking projects, including overhead human tracking, scene segmentation, microcontroller and DSP CNN inference, the development of a real-time hand gesture recognition system for robotic manipulator control and various industrial robotics safety applications. His innovative work led to a patent for running convolutional networks on memory-constrained embedded devices.
 
-2) Leading a team to create an interface and inference framework for one of the world's most efficient AI microcontrollers MAX78002. 
+***Technical Expertise:***<br>
+His technical prowess spans multiple domains:<br>
+**Edge AI Development:** Led critical projects involving deep learning implementation on edge devices.<br>
+**Robotics Applications:** Specialized in human-robot interaction and industrial robotics safety systems.<br>
+**Computer Vision:** Developed advanced algorithms for people counting and multi-sensor aggregation systems
+Recognition.<br>
+His contributions to the field have earned him notable recognition, including the *Analog Devices India Ten Young Professionals Under Ten Award* and the *Best Paper Award at ADI India Technical Conference 2022*. He has authored over 14 publications in Deep Learning, Edge AI, Computer Vision, and Robotics.
 
-3) Developing industrial robotic safety solutions using award-winning Time of Flight Sensor ADTF3175. 
-
-4) Publishing 14 research papers, patents, and digital publications in deep learning, computer vision, and robotic perception. 
-
-5) Receiving the prestigious ADI Top 10 Under 10 Award, recognizing my commendable contributions to the organization. 
-
-My academic background in Computer Science Engineering, combined with my ongoing graduate studies in Robotic Systems Development, provides a strong foundation for tackling complex technical challenges. I am eager to apply my expertise in machine learning, computer Vision and embedded systems to contribute to the ever evolving field of Robotics.
+***Education:***<br>
+A graduate of Visvesvaraya Technological University with a Bachelor's in Computer Science Engineering, he also completed a prestigious summer fellowship at the Indian Institute of Science, where his undergraduate project was recognized among the top 4 best projects nationwide.

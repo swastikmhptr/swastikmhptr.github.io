@@ -1,19 +1,36 @@
 ---
-layout: default
+layout: profiles
 permalink: /people/
-title: Recommendations
-description: Professional Recommendations
+title: Achievements
+description:
 nav: true
-nav_order: 5
-pagination:
-  enabled: true
-  collection: posts
-  permalink: /page/:num/
-  per_page: 5
-  sort_field: date
-  sort_reverse: true
-  trail:
-    before: 1 # The number of links before the current page
-    after: 3 # The number of links after the current page
+nav_order: 4
+
+profiles:
+  # if you want to include more than one profile, just replicate the following block
+  # and create one content file for each profile inside _pages/
+  - align: right
+    image: achievement1.jpg
+    content: Achievement1.md
+    image_circular: false # crops the image to make it circular
+
+  - align: left
+    image: achievement2.jpg
+    content: Achievement2.md
+    image_circular: false # crops the image to make it circular
+
+  - align: right
+    image: achievement4.png
+    content: Achievement4.md
+    image_circular: false # crops the image to make it circular
+
+  - align: left
+    image: achievement3.jpg
+    content: Achievement3.md
+    image_circular: false # crops the image to make it circular
+
+  - align: right
+    image: achievement5.jpg
+    content: Achievement5.md
+    image_circular: false # crops the image to make it circular
 ---
-<div class='sk-ww-linkedin-recommendations' data-embed-id='25488476'></div><script src='https://widgets.sociablekit.com/linkedin-recommendations/widget.js' async defer></script> 

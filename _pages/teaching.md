@@ -1,12 +1,19 @@
 ---
-layout: page
+layout: default
 permalink: /teaching/
-title: teaching
-description: Materials for courses you taught. Replace this text with your description.
+title: Recommendations
+description: Professional Recommendations
 nav: false
-nav_order: 6
+nav_order: 5
+pagination:
+  enabled: true
+  collection: posts
+  permalink: /page/:num/
+  per_page: 5
+  sort_field: date
+  sort_reverse: true
+  trail:
+    before: 1 # The number of links before the current page
+    after: 3 # The number of links after the current page
 ---
-
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
-
-Organize your courses by years, topics, or universities, however you like!
+<div class='sk-ww-linkedin-recommendations' data-embed-id='25488476'></div><script src='https://widgets.sociablekit.com/linkedin-recommendations/widget.js' async defer></script> 

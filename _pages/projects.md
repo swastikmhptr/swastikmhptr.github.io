@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Open-Sourced Projects
+title: Projects(Opensourced)
 permalink: /projects/
 description: A non-exhaustive list of few of the recent opensourced projects.
 nav: true

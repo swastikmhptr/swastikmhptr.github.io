@@ -171,7 +171,7 @@
     {
       "name": "Safety Bubble detector for Industrial AGVs",
       "summary": "The ADI 3DToF Safety Bubble Detector is a ROS (Robot Operating System) package for the Safety Bubble Detection application. The Safety Bubble Detectors are the basic building block of any AGV/AMR. The safety zone is a virtual area around an AGV/AMR. The Safety Bubble Detectors are used to detect the presence of any object inside this zone and prevent the AGV/AMR from colliding on to the object.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
+      "highlights": ["Supports custom safety region configuration", "Achieves multiple Functional Safety(Fusa) Standards."],
       "startDate": "2022-11-01",
       "endDate": "2023-09-01",
       "url": "https://github.com/swastikmhptr/adi_3dtof_safety_bubble_detector"
@@ -179,7 +179,7 @@
     {
       "name": "Floor detector for Industrial AGVs",
       "summary": "The ADI 3DToF Floor Detector is a ROS (Robot Operating System) package for the Floor Detection application. The term 'Floor Detection' refers to determining where the floor is in the given image. It is an image segmentation problem in which a given image is divided into floor and non-floor pixels. Floor Detection is an essential component of real-world applications such as Robot Navigation, Autonomous Driving, Augmented reality (AR) applications, and 'Obstacles Detection and Avoidance' for robots and people with inadequate vision. Here is the sample output of ADI 3DToF Floor Detector.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
+      "highlights": ["Fast and robust floor segmentation", "Achieves multiple Functional Safety(Fusa) Standards."],
       "startDate": "2022-08-01",
       "endDate": "2023-11-01",
       "url": "https://github.com/swastikmhptr/adi_3dtof_floor_detector"
