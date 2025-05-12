@@ -5,7 +5,7 @@ permalink: /projects/
 description: A non-exhaustive list of few of the recent opensourced projects.
 nav: true
 nav_order: 3
-display_categories: [work, thesis]
+display_categories: [masters, work, undergrad]
 horizontal: false
 ---
 

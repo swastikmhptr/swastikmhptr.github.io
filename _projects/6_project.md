@@ -5,7 +5,7 @@ description: This project aims to promote AI for Good by exploring the Global Te
 img: assets/img/project6.jpg
 #redirect: https://github.com/swastikmhptr/Terrorism-Vulnerability-Prediction-model-for-Indian-States
 importance: 6
-category: thesis
+category: undergrad
 ---
 
 This Project was recognized to be among the top 4 projects across India, during the Indian Institute Of Science Summer School 2018 by department of COmputer Science and Automation. A complete student presentation hosted on IIsc's website can be found below:
@@ -19,5 +19,7 @@ The entire model training and inference setup for this project has been done fro
 The complete code for this project can be found in the below repository:
 
 <div class="repositories d-flex flex-wrap flex-md-row flex-column justify-content-between align-items-center">
-    {% include repository/repo.liquid repository=site.data.repositories.github_repos.last %}
+    {% assign second_last_repo_index = site.data.repositories.github_repos.size | minus: 3 %}
+    {% assign second_last_repo = site.data.repositories.github_repos[second_last_repo_index] %}
+    {% include repository/repo.liquid repository=second_last_repo %}
 </div>
