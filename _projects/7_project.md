@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Simultaneous Modelling while Searching for time-critical Rescues (SMoRes) 
+title: Searching while Modeling the Environment for Time-critical Rescues (SMoRes) 
 description: An ambitious, state-of-the-art aerial robotics platform designed to safeguard the lives of our courageous firefighters. This innovative system autonomously navigates and maps indoor environments engulfed in flames, overcoming severe perceptual challenges such as smoke and darkness. 
 img: assets/img/project7.png
 url: https://mrsdprojects.ri.cmu.edu/2025teamg/
