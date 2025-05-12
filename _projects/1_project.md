@@ -2,7 +2,7 @@
 layout: page
 title: 3D Gesture Recognition For Robotic Manipulator Control
 description: This 3D Gesture Recognition package is an ROS (Robot Operating System) solution designed for real-time Hand Gesture Reognition. Leveraging the power of deep learning, this package processes depth images captured by ADI's Time of Flight (ToF) sensor to accurately recognize and publish one of 18 distinct gestures. At the heart of the recognition module is a Convolutional Neural Network (CNN), which ensures the system to operate seamlessly at 5 frames per second (FPS) on the EVAL-ADTF3175D-NXZ platform.
-img: assets/img/project1.png
+img: assets/img/project1.PNG
 redirect: https://github.com/swastikmhptr/adi_3dtof_gesture_recognition
 importance: 1
 category: work
