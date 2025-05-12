@@ -16,8 +16,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Swastik Mahapatra is a distinguished AI and Robotics professional with extensive experience in Edge AI, Deep Learning, and Computer Vision. Currently pursuing a Master of Science in Robotic Systems Development at Carnegie Mellon University, he previously served as a Senior Engineer in AI/ML Software Engineering at Analog Devices in Bangalore.
-
+Swastik Mahapatra is a recognized AI and robotics professional with extensive experience in edge AI, deep learning, and computer vision. He is currently pursuing a Master of Science in Robotic Systems Development at Carnegie Mellon University, where he is conducting research on the development of autonomous aerial robotic systems capable of navigating challenging environments with perceptual degradation, such as smoke and darkness. These systems are designed to collect critical data that supports and enhances rescue operations.
 ***Professional Achievements:***<br>
 During his six-year tenure at Analog Devices (2018-2024), he spearheaded several groundbreaking projects, including overhead human tracking, scene segmentation, microcontroller and DSP CNN inference, the development of a real-time hand gesture recognition system for robotic manipulator control and various industrial robotics safety applications. His innovative work led to a patent for running convolutional networks on memory-constrained embedded devices.
 
