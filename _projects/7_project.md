@@ -17,7 +17,9 @@ category: masters
 
 This is a capstone project developed as a part of my Master's degree at Carnegie Mellon University. Inspired by the courage and commitment of firefighters worldwide, we are leveraging the latest advancements in aerial robotics to make rescues safer and more efficient. Our project focuses on building an autonomous first responder drone capable of scouting and mapping the indoor environment of a building on fire-tracing a safe and efficient route for rescue before firefighters move in. This technology aims to provide real-time situational awareness in hazardous, smoke-filled environments, helping first responders allocate resources and strategize effectively, ultimately minimizing risks to their lives.
 
-A quick project demo and progress presentation found below, please visit the project website for more details:
+A quick project demo, its media coverage and progress presentation found below, please visit the project website for more details:
+
+<iframe width="960" height="540" src="https://www.youtube.com/embed/k2K5sfq9UUI" title="RI media coverage" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 <iframe width="960" height="540" src="https://www.youtube.com/embed/8BcWbiJCyDM" title="SMoRes Spring Teaser" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
