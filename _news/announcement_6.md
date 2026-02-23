@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2025-05-19 09:00:00-0400
+date: 2025-10-9 09:00:00-0400
 inline: true
 related_posts: false
 ---
 
-Our Work so far with <a href="projects/7_project/">Project SMoRes</a> will be presented at <a href="https://2025.ieee-icra.org/">ICRA 2025</a> as a part of <a href="https://sites.google.com/view/tiro25/">Thermal Infrared in Robotics(TIRO) Workshops</a> on 19th of May 2025 at 9am EDT :us:
+We (<a href="https://teamchiron.ai/">Team CHIRON</a>) participated and successfully qualified the Year-2 challenge event of the <a href="https://www.darpa.mil/research/challenges/darpa-triage-challenge">DARPA Triage Challenge</a>. 

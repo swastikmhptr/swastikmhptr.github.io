@@ -24,6 +24,15 @@
   },
   "work": [
     {
+      "name": "Airlab at Carnegie Mellon University",
+      "position": "Research Assistant",
+      "url": "https://theairlab.org/",
+      "startDate": "2025-05-01",
+      "endDate": "Present",
+      "summary": "Researching on developing autonomous robotic systems that are capable of navigating challenging environments with perceptual degradation, such as smoke and darkness, and are designed to collect critical data that supports medical triage and enhances rescue operations.",
+      "highlights": ["DARPA Triage Challenge: Sensor Payload, systems engineering, Autonomy for Heterogeneous robotic team.", "Project SMoRes: Developed Thermal Only SLAM pipeline and 3D human localization for a firefighting drone project developed in collaboration with the Allegheny County Fire Academy."]
+    },
+    {
       "name": "Analog Devices",
       "position": "Senior Engineer, AI/ML Software Engineering",
       "url": "https://analog.com",
