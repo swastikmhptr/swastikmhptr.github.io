@@ -3,6 +3,35 @@ layout: default
 ---
 <div class="post">
   <header class="post-header">
+    {% if page.timeline %}
+      <div class="page-header-timeline">
+        {% if page.timeline.image %}
+          {% assign timeline_image_path = page.timeline.image | prepend: 'assets/img/' %}
+
+          {%- comment -%}
+          Wide hero-style header image spanning the top of the page.
+          Adjust sizes so it loads an appropriate width on large screens.
+          {%- endcomment -%}
+          {% capture sizes %}(min-width: {{ site.max_width }}) {{ site.max_width| minus: 30 | times: 0.3 }}px, 100vw{% endcapture %}
+
+          {%
+            include figure.liquid
+              loading="eager"
+              path=timeline_image_path
+              class="img-fluid z-depth-1 page-header-timeline-image"
+              sizes=sizes
+              alt=page.timeline.alt
+              cache_bust=true
+          %}
+        {% endif %}
+
+        {% if page.timeline.caption %}
+          <div class="page-header-timeline-caption">
+            {{ page.timeline.caption }}
+          </div>
+        {% endif %}
+      </div>
+    {% endif %}
     <h1 class="post-title">
       {% if site.title == 'blank' %}
         <span class="font-weight-bold">{{ site.first_name }}</span> {{ site.middle_name }}
